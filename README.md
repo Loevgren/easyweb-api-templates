@@ -16,7 +16,7 @@ Read more: https://nextjs.org/docs/getting-started
 ## CoreactEW
 A setup of the default .NET Core React package with Easyweb API-request autothroughput via /api for getting started with SPA+API.
 
-Read more: https://docs.microsoft.com/en-us/aspnet/core/client-side/spa/angular?view=aspnetcore-3.1&tabs=visual-studio
+Read more: https://docs.microsoft.com/en-us/aspnet/core/client-side/spa/react?view=aspnetcore-3.1&tabs=visual-studio
 
 
 ## CoregularEW
